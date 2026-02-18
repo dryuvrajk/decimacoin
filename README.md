@@ -4,7 +4,7 @@
 
 Decima (DCMA) is a blockchain-based digital asset ecosystem developed by Decima Technologies to support long-term participation in real-economy infrastructure, aviation, AI platforms, and research-driven ventures.
 
-DCMA is designed as a structured participation instrument within a broader enterprise ecosystem — emphasizing transparency, governance, and technological integration.
+DCMA is designed as a structured participation instrument within a broader enterprise ecosystem - emphasizing transparency, governance, and technological integration.
 
 # Overview
 
@@ -20,19 +20,25 @@ DCMA operates within a controlled ecosystem architecture where usage, transfers,
 
 # NexusVault Android App Screenshots
 
-![Screenshot_20260208_233302](https://github.com/user-attachments/assets/7077abdc-7574-46b8-b992-772fd5010667)
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/7077abdc-7574-46b8-b992-772fd5010667" />
 
-![Screenshot_20260208_233408](https://github.com/user-attachments/assets/0b7d80ef-b62d-4d5c-9c15-1c8cb5253a6a)
 
-![Screenshot_20250829_032313](https://github.com/user-attachments/assets/720c6d3d-86f0-498f-8214-767b913d14a2)
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/0b7d80ef-b62d-4d5c-9c15-1c8cb5253a6a" />
 
-![Screenshot_20250829_032319](https://github.com/user-attachments/assets/951c632d-171e-481e-bf09-6d107a1b3d0d)
 
-![Screenshot_20260208_233424](https://github.com/user-attachments/assets/cf52642d-80c7-4a77-a179-e91a85610bb9)
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/720c6d3d-86f0-498f-8214-767b913d14a2" />
 
-![Screenshot_20260208_234653](https://github.com/user-attachments/assets/58d9467f-5561-46fb-9bfd-924ab8c5b1da)
 
-![Screenshot_20260208_235021](https://github.com/user-attachments/assets/78156775-b959-45c5-8f4e-4a4549c98d63)
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/951c632d-171e-481e-bf09-6d107a1b3d0d" />
+
+
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/cf52642d-80c7-4a77-a179-e91a85610bb9" />
+
+
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/58d9467f-5561-46fb-9bfd-924ab8c5b1da" />
+
+
+<img width="400" height="1024" alt="NexusVault" src="https://github.com/user-attachments/assets/78156775-b959-45c5-8f4e-4a4549c98d63" />
 
 # Vision
 
