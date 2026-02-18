@@ -6,6 +6,8 @@ Decima (DCMA) is a blockchain-based digital asset ecosystem developed by Decima 
 
 DCMA is designed as a structured participation instrument within a broader enterprise ecosystem - emphasizing transparency, governance, and technological integration.
 
+**Important Notice:** This project is registered with Financial Intelligence Unit (FIU), Ministry of Revenue, Government of India.
+
 # Overview
 
 * Token Name: Decima
