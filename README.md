@@ -12,7 +12,7 @@ DCMA is designed as a structured participation instrument within a broader enter
 * Total Supply: 21,000,000 DCMA
 * Decimals: 18
 * Primary Ecosystem App: NexusVault (Google Play - Android)
-* Link to Nexus Vault Android App: [Link Text] (https://play.google.com/store/apps/details?id=com.decima.nexusvault)
+* Link to Nexus Vault Android App: https://play.google.com/store/apps/details?id=com.decima.nexusvault
 
 DCMA operates within a controlled ecosystem architecture where usage, transfers, and participation mechanisms are aligned with long-term enterprise objectives.
 
